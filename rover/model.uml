@@ -1,25 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:Allocations="http://www.eclipse.org/papyrus/0.7.0/SysML/Allocations" xmlns:Blocks="http://www.eclipse.org/papyrus/0.7.0/SysML/Blocks" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xsi:schemaLocation="http://www.eclipse.org/papyrus/0.7.0/SysML/Allocations http://www.eclipse.org/papyrus/0.7.0/SysML#//allocations http://www.eclipse.org/papyrus/0.7.0/SysML/Blocks http://www.eclipse.org/papyrus/0.7.0/SysML#//blocks">
+<xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:Allocations="http://www.eclipse.org/papyrus/0.7.0/SysML/Allocations" xmlns:Blocks="http://www.eclipse.org/papyrus/0.7.0/SysML/Blocks" xmlns:Requirements="http://www.eclipse.org/papyrus/0.7.0/SysML/Requirements" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xsi:schemaLocation="http://www.eclipse.org/papyrus/0.7.0/SysML/Allocations http://www.eclipse.org/papyrus/0.7.0/SysML#//allocations http://www.eclipse.org/papyrus/0.7.0/SysML/Blocks http://www.eclipse.org/papyrus/0.7.0/SysML#//blocks http://www.eclipse.org/papyrus/0.7.0/SysML/Requirements http://www.eclipse.org/papyrus/0.7.0/SysML#//requirements">
   <uml:Model xmi:id="_2x4akHGQEeSw4svShhZabQ" name="SysMLmodel">
-    <packagedElement xmi:type="uml:Class" xmi:id="_3IQTMHGQEeSw4svShhZabQ" name="Block1"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_3IQTMHGQEeSw4svShhZabQ" name="Context"/>
     <packagedElement xmi:type="uml:Class" xmi:id="_3I-r8HGQEeSw4svShhZabQ" name="Block2"/>
-    <packagedElement xmi:type="uml:Package" xmi:id="_EShVEHGREeSw4svShhZabQ" name="Package1"/>
-    <packagedElement xmi:type="uml:Abstraction" xmi:id="_1Wwq8HGREeSw4svShhZabQ" name="ROVER_FUNC_010"/>
-    <packagedElement xmi:type="uml:Abstraction" xmi:id="_1Wwq8XGREeSw4svShhZabQ" name="ROVER_FUNC_020"/>
-    <packagedElement xmi:type="uml:Abstraction" xmi:id="_1Wwq8nGREeSw4svShhZabQ" name="ROVER_FUNC_030"/>
-    <packagedElement xmi:type="uml:Abstraction" xmi:id="_1Wwq83GREeSw4svShhZabQ" name="ROVER_HARD_010"/>
-    <packagedElement xmi:type="uml:Abstraction" xmi:id="_1Wwq9HGREeSw4svShhZabQ" name="ROVER_HARD_020"/>
-    <packagedElement xmi:type="uml:Abstraction" xmi:id="_1Wwq9XGREeSw4svShhZabQ" name="ROVER_NFUNC_010"/>
-    <packagedElement xmi:type="uml:Abstraction" xmi:id="_1Wwq9nGREeSw4svShhZabQ" name="ROVER_NFUNC_020"/>
-    <packagedElement xmi:type="uml:Abstraction" xmi:id="_1WxSAHGREeSw4svShhZabQ" name="ROVER_NFUNC_030"/>
-    <packagedElement xmi:type="uml:Abstraction" xmi:id="_1WxSAXGREeSw4svShhZabQ" name="ROVER_NFUNC_040"/>
-    <packagedElement xmi:type="uml:Abstraction" xmi:id="_1WxSAnGREeSw4svShhZabQ" name="ROVER_FUNC_040"/>
-    <packagedElement xmi:type="uml:Abstraction" xmi:id="_1WxSA3GREeSw4svShhZabQ" name="ROVER_FUNC_050"/>
-    <packagedElement xmi:type="uml:Abstraction" xmi:id="_1WxSBHGREeSw4svShhZabQ" name="ROVER_SAFE_010"/>
-    <packagedElement xmi:type="uml:Abstraction" xmi:id="_1WxSBXGREeSw4svShhZabQ" name="ROVER_FUNC_060"/>
-    <packagedElement xmi:type="uml:Abstraction" xmi:id="_1WxSBnGREeSw4svShhZabQ" name="ROVER_FUNC_070"/>
-    <packagedElement xmi:type="uml:Abstraction" xmi:id="_1WxSB3GREeSw4svShhZabQ" name="ROVER_FUNC_080"/>
-    <packagedElement xmi:type="uml:Abstraction" xmi:id="_1WxSCHGREeSw4svShhZabQ" name="ROVER_SAFE_020"/>
+    <packagedElement xmi:type="uml:Package" xmi:id="_EShVEHGREeSw4svShhZabQ" name="Requirements"/>
+    <packagedElement xmi:type="uml:Package" xmi:id="_NEau4HGZEeSw4svShhZabQ" name="Initial Design">
+      <packagedElement xmi:type="uml:Class" xmi:id="_jAw08HGaEeSw4svShhZabQ" name="Rover"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_xlU3sXu4EeSWyoC_eqzbbQ" name="ROVER_FUNC_010"/>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_xlU3snu4EeSWyoC_eqzbbQ" name="ROVER_FUNC_020"/>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_xlU3s3u4EeSWyoC_eqzbbQ" name="ROVER_FUNC_030"/>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_xlU3tHu4EeSWyoC_eqzbbQ" name="ROVER_HARD_010"/>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_xlU3tXu4EeSWyoC_eqzbbQ" name="ROVER_HARD_020"/>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_xlU3tnu4EeSWyoC_eqzbbQ" name="ROVER_NFUNC_010"/>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_xlU3t3u4EeSWyoC_eqzbbQ" name="ROVER_NFUNC_020"/>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_xlU3uHu4EeSWyoC_eqzbbQ" name="ROVER_NFUNC_030"/>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_xlU3uXu4EeSWyoC_eqzbbQ" name="ROVER_NFUNC_040"/>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_xlU3unu4EeSWyoC_eqzbbQ" name="ROVER_FUNC_040"/>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_xlU3u3u4EeSWyoC_eqzbbQ" name="ROVER_FUNC_050"/>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_xlU3vHu4EeSWyoC_eqzbbQ" name="ROVER_SAFE_010"/>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_xlVewHu4EeSWyoC_eqzbbQ" name="ROVER_FUNC_060"/>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_xlVewXu4EeSWyoC_eqzbbQ" name="ROVER_FUNC_070"/>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_xlVewnu4EeSWyoC_eqzbbQ" name="ROVER_FUNC_080"/>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_xlVew3u4EeSWyoC_eqzbbQ" name="ROVER_SAFE_020"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_jREdAHu6EeSWyoC_eqzbbQ" name="ROVER_FUNC_010"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_jREdAXu6EeSWyoC_eqzbbQ" name="ROVER_FUNC_020"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_jREdAnu6EeSWyoC_eqzbbQ" name="ROVER_FUNC_030"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_jREdA3u6EeSWyoC_eqzbbQ" name="ROVER_HARD_010"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_jREdBHu6EeSWyoC_eqzbbQ" name="ROVER_HARD_020"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_jREdBXu6EeSWyoC_eqzbbQ" name="ROVER_NFUNC_010"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_jREdBnu6EeSWyoC_eqzbbQ" name="ROVER_NFUNC_020"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_jREdB3u6EeSWyoC_eqzbbQ" name="ROVER_NFUNC_030"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_jREdCHu6EeSWyoC_eqzbbQ" name="ROVER_NFUNC_040"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_jREdCXu6EeSWyoC_eqzbbQ" name="ROVER_FUNC_040"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_jREdCnu6EeSWyoC_eqzbbQ" name="ROVER_FUNC_050"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_jREdC3u6EeSWyoC_eqzbbQ" name="ROVER_SAFE_010"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_jREdDHu6EeSWyoC_eqzbbQ" name="ROVER_FUNC_060"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_jREdDXu6EeSWyoC_eqzbbQ" name="ROVER_FUNC_070"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_jREdDnu6EeSWyoC_eqzbbQ" name="ROVER_FUNC_080"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_jREdD3u6EeSWyoC_eqzbbQ" name="ROVER_SAFE_020"/>
     <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_3C__wHGQEeSw4svShhZabQ">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_3DB08HGQEeSw4svShhZabQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
         <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/0.7.0/SysML#/"/>
@@ -89,20 +108,53 @@
   </uml:Model>
   <Blocks:Block xmi:id="_3IVLsHGQEeSw4svShhZabQ" base_Class="_3IQTMHGQEeSw4svShhZabQ"/>
   <Blocks:Block xmi:id="_3I_6EHGQEeSw4svShhZabQ" base_Class="_3I-r8HGQEeSw4svShhZabQ"/>
-  <Allocations:Allocate xmi:id="_1WzHMXGREeSw4svShhZabQ" base_Abstraction="_1Wwq8HGREeSw4svShhZabQ"/>
-  <Allocations:Allocate xmi:id="_1WzHMnGREeSw4svShhZabQ" base_Abstraction="_1Wwq8XGREeSw4svShhZabQ"/>
-  <Allocations:Allocate xmi:id="_1WzHM3GREeSw4svShhZabQ" base_Abstraction="_1Wwq8nGREeSw4svShhZabQ"/>
-  <Allocations:Allocate xmi:id="_1WzHNHGREeSw4svShhZabQ" base_Abstraction="_1Wwq83GREeSw4svShhZabQ"/>
-  <Allocations:Allocate xmi:id="_1WzHNXGREeSw4svShhZabQ" base_Abstraction="_1Wwq9HGREeSw4svShhZabQ"/>
-  <Allocations:Allocate xmi:id="_1WzHNnGREeSw4svShhZabQ" base_Abstraction="_1Wwq9XGREeSw4svShhZabQ"/>
-  <Allocations:Allocate xmi:id="_1WzHN3GREeSw4svShhZabQ" base_Abstraction="_1Wwq9nGREeSw4svShhZabQ"/>
-  <Allocations:Allocate xmi:id="_1WzHOHGREeSw4svShhZabQ" base_Abstraction="_1WxSAHGREeSw4svShhZabQ"/>
-  <Allocations:Allocate xmi:id="_1WzHOXGREeSw4svShhZabQ" base_Abstraction="_1WxSAXGREeSw4svShhZabQ"/>
-  <Allocations:Allocate xmi:id="_1WzHOnGREeSw4svShhZabQ" base_Abstraction="_1WxSAnGREeSw4svShhZabQ"/>
-  <Allocations:Allocate xmi:id="_1WzHO3GREeSw4svShhZabQ" base_Abstraction="_1WxSA3GREeSw4svShhZabQ"/>
-  <Allocations:Allocate xmi:id="_1WzHPHGREeSw4svShhZabQ" base_Abstraction="_1WxSBHGREeSw4svShhZabQ"/>
-  <Allocations:Allocate xmi:id="_1WzHPXGREeSw4svShhZabQ" base_Abstraction="_1WxSBXGREeSw4svShhZabQ"/>
-  <Allocations:Allocate xmi:id="_1WzHPnGREeSw4svShhZabQ" base_Abstraction="_1WxSBnGREeSw4svShhZabQ"/>
-  <Allocations:Allocate xmi:id="_1WzHP3GREeSw4svShhZabQ" base_Abstraction="_1WxSB3GREeSw4svShhZabQ"/>
-  <Allocations:Allocate xmi:id="_1WzHQHGREeSw4svShhZabQ" base_Abstraction="_1WxSCHGREeSw4svShhZabQ"/>
+  <Blocks:Block xmi:id="_jAxcAHGaEeSw4svShhZabQ" base_Class="_jAw08HGaEeSw4svShhZabQ"/>
+  <Allocations:Allocate xmi:id="_SPU6oXu3EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_SPU6onu3EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_SPU6o3u3EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_SPU6pHu3EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_SPU6pXu3EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_SPU6pnu3EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_SPU6p3u3EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_SPU6qHu3EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_SPU6qXu3EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_SPU6qnu3EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_SPU6q3u3EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_SPU6rHu3EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_SPU6rXu3EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_SPU6rnu3EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_SPU6r3u3EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_SPU6sHu3EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_xlWF0Xu4EeSWyoC_eqzbbQ" base_Abstraction="_xlU3sXu4EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_xlWF0nu4EeSWyoC_eqzbbQ" base_Abstraction="_xlU3snu4EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_xlWF03u4EeSWyoC_eqzbbQ" base_Abstraction="_xlU3s3u4EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_xlWF1Hu4EeSWyoC_eqzbbQ" base_Abstraction="_xlU3tHu4EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_xlWF1Xu4EeSWyoC_eqzbbQ" base_Abstraction="_xlU3tXu4EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_xlWF1nu4EeSWyoC_eqzbbQ" base_Abstraction="_xlU3tnu4EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_xlWF13u4EeSWyoC_eqzbbQ" base_Abstraction="_xlU3t3u4EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_xlWF2Hu4EeSWyoC_eqzbbQ" base_Abstraction="_xlU3uHu4EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_xlWF2Xu4EeSWyoC_eqzbbQ" base_Abstraction="_xlU3uXu4EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_xlWF2nu4EeSWyoC_eqzbbQ" base_Abstraction="_xlU3unu4EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_xlWF23u4EeSWyoC_eqzbbQ" base_Abstraction="_xlU3u3u4EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_xlWF3Hu4EeSWyoC_eqzbbQ" base_Abstraction="_xlU3vHu4EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_xlWF3Xu4EeSWyoC_eqzbbQ" base_Abstraction="_xlVewHu4EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_xlWF3nu4EeSWyoC_eqzbbQ" base_Abstraction="_xlVewXu4EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_xlWF33u4EeSWyoC_eqzbbQ" base_Abstraction="_xlVewnu4EeSWyoC_eqzbbQ"/>
+  <Allocations:Allocate xmi:id="_xlWF4Hu4EeSWyoC_eqzbbQ" base_Abstraction="_xlVew3u4EeSWyoC_eqzbbQ"/>
+  <Requirements:Requirement xmi:id="_jRFEEXu6EeSWyoC_eqzbbQ" text="The Rover must support various payloads (sensors/camera/robotic arm) thanks to a pluggable software architecture" id="ROVER_FUNC_010" base_Class="_jREdAHu6EeSWyoC_eqzbbQ"/>
+  <Requirements:Requirement xmi:id="_jRFEEnu6EeSWyoC_eqzbbQ" text="The Rover must explore a flat room (without holes) autonomously" id="ROVER_FUNC_020" base_Class="_jREdAXu6EeSWyoC_eqzbbQ"/>
+  <Requirements:Requirement xmi:id="_jRFEE3u6EeSWyoC_eqzbbQ" text="The Rover must report a map of the explored environment" id="ROVER_FUNC_030" base_Class="_jREdAnu6EeSWyoC_eqzbbQ"/>
+  <Requirements:Requirement xmi:id="_jRFrIHu6EeSWyoC_eqzbbQ" text="The Rover must be built with the Polulu Dagu Rover 5 platform" id="ROVER_HARD_010" base_Class="_jREdA3u6EeSWyoC_eqzbbQ"/>
+  <Requirements:Requirement xmi:id="_jRFrIXu6EeSWyoC_eqzbbQ" text="The Rover must be built with widely available hardware pieces (Arduino, Raspberry Pi)" id="ROVER_HARD_020" base_Class="_jREdBHu6EeSWyoC_eqzbbQ"/>
+  <Requirements:Requirement xmi:id="_jRFrInu6EeSWyoC_eqzbbQ" text="Battery must provide an autonomy of at least 10mn" id="ROVER_NFUNC_010" base_Class="_jREdBXu6EeSWyoC_eqzbbQ"/>
+  <Requirements:Requirement xmi:id="_jRFrI3u6EeSWyoC_eqzbbQ" text="The Rover must be assembled with limited soldering capabilities" id="ROVER_NFUNC_020" base_Class="_jREdBnu6EeSWyoC_eqzbbQ"/>
+  <Requirements:Requirement xmi:id="_jRFrJHu6EeSWyoC_eqzbbQ" text="The Rover must be packageable for flight travel (less than 10Kg including a flight case, handluggage max dimensions)" id="ROVER_NFUNC_030" base_Class="_jREdB3u6EeSWyoC_eqzbbQ"/>
+  <Requirements:Requirement xmi:id="_jRFrJXu6EeSWyoC_eqzbbQ" text="The total price of the Rover must be less than 200$" id="ROVER_NFUNC_040" base_Class="_jREdCHu6EeSWyoC_eqzbbQ"/>
+  <Requirements:Requirement xmi:id="_jRFrJnu6EeSWyoC_eqzbbQ" text="The Rover must explore dangerous areas (with many obstacles/holes, …)" id="ROVER_FUNC_040" base_Class="_jREdCXu6EeSWyoC_eqzbbQ"/>
+  <Requirements:Requirement xmi:id="_jRFrJ3u6EeSWyoC_eqzbbQ" text="The Rover must be controlled through an Android application" id="ROVER_FUNC_050" base_Class="_jREdCnu6EeSWyoC_eqzbbQ"/>
+  <Requirements:Requirement xmi:id="_jRFrKHu6EeSWyoC_eqzbbQ" text="The Rover must avoid crash in obstacles" id="ROVER_SAFE_010" base_Class="_jREdC3u6EeSWyoC_eqzbbQ"/>
+  <Requirements:Requirement xmi:id="_jRFrKXu6EeSWyoC_eqzbbQ" text="The Rover must be controlled through an IoS application" id="ROVER_FUNC_060" base_Class="_jREdDHu6EeSWyoC_eqzbbQ"/>
+  <Requirements:Requirement xmi:id="_jRFrKnu6EeSWyoC_eqzbbQ" text="The Rover must provide images of the explored environment" id="ROVER_FUNC_070" base_Class="_jREdDXu6EeSWyoC_eqzbbQ"/>
+  <Requirements:Requirement xmi:id="_jRFrK3u6EeSWyoC_eqzbbQ" text="The Rover must differentiate walls from inclined pathway" id="ROVER_FUNC_080" base_Class="_jREdDnu6EeSWyoC_eqzbbQ"/>
+  <Requirements:Requirement xmi:id="_jRFrLHu6EeSWyoC_eqzbbQ" text="The Rover must avoid falling on its backside" id="ROVER_SAFE_020" base_Class="_jREdD3u6EeSWyoC_eqzbbQ"/>
 </xmi:XMI>

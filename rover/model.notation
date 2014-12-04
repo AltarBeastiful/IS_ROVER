@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:configuration="http://www.eclipse.org/papyrus/infra/viewpoints/configuration" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:nattable="http://www.eclipse.org/papyrus/nattable/model" xmlns:nattableaxis="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxis" xmlns:nattableaxisconfiguration="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisconfiguration" xmlns:nattableaxisprovider="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisprovider" xmlns:nattablecell="http://www.eclipse.org/papyrus/nattable/model/table/nattablecell" xmlns:nattableconfiguration="http://www.eclipse.org/papyrus/nattable/model/nattableconfiguration" xmlns:nattableproblem="http://www.eclipse.org/papyrus/nattable/model/table/nattableproblem" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/viewpoints/policy/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xsi:schemaLocation="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxis http://www.eclipse.org/papyrus/nattable/model#//nattableaxis http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisconfiguration http://www.eclipse.org/papyrus/nattable/model#//nattableaxisconfiguration http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisprovider http://www.eclipse.org/papyrus/nattable/model#//nattableaxisprovider http://www.eclipse.org/papyrus/nattable/model/table/nattablecell http://www.eclipse.org/papyrus/nattable/model#//nattablecell http://www.eclipse.org/papyrus/nattable/model/nattableconfiguration http://www.eclipse.org/papyrus/nattable/model#//nattableconfiguration http://www.eclipse.org/papyrus/nattable/model/table/nattableproblem http://www.eclipse.org/papyrus/nattable/model#//nattableproblem">
-  <notation:Diagram xmi:id="_3HtgoHGQEeSw4svShhZabQ" type="BlockDefinition" name="NewDiagram" measurementUnit="Pixel">
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:configuration="http://www.eclipse.org/papyrus/infra/viewpoints/configuration" xmlns:css="http://www.eclipse.org/papyrus/infra/gmfdiag/css" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:nattable="http://www.eclipse.org/papyrus/nattable/model" xmlns:nattableaxis="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxis" xmlns:nattableaxisconfiguration="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisconfiguration" xmlns:nattableaxisprovider="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisprovider" xmlns:nattablecell="http://www.eclipse.org/papyrus/nattable/model/table/nattablecell" xmlns:nattableconfiguration="http://www.eclipse.org/papyrus/nattable/model/nattableconfiguration" xmlns:nattableproblem="http://www.eclipse.org/papyrus/nattable/model/table/nattableproblem" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/viewpoints/policy/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xsi:schemaLocation="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxis http://www.eclipse.org/papyrus/nattable/model#//nattableaxis http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisconfiguration http://www.eclipse.org/papyrus/nattable/model#//nattableaxisconfiguration http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisprovider http://www.eclipse.org/papyrus/nattable/model#//nattableaxisprovider http://www.eclipse.org/papyrus/nattable/model/table/nattablecell http://www.eclipse.org/papyrus/nattable/model#//nattablecell http://www.eclipse.org/papyrus/nattable/model/nattableconfiguration http://www.eclipse.org/papyrus/nattable/model#//nattableconfiguration http://www.eclipse.org/papyrus/nattable/model/table/nattableproblem http://www.eclipse.org/papyrus/nattable/model#//nattableproblem">
+  <notation:Diagram xmi:id="_3HtgoHGQEeSw4svShhZabQ" type="BlockDefinition" name="system package" measurementUnit="Pixel">
     <children xmi:type="notation:Shape" xmi:id="_ESm0oHGREeSw4svShhZabQ" type="2007">
       <children xmi:type="notation:DecorationNode" xmi:id="_ESnbsHGREeSw4svShhZabQ" type="5026"/>
       <children xmi:type="notation:DecorationNode" xmi:id="_ESnbsXGREeSw4svShhZabQ" type="7016">
@@ -8,7 +8,69 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ESnbs3GREeSw4svShhZabQ"/>
       </children>
       <element xmi:type="uml:Package" href="model.uml#_EShVEHGREeSw4svShhZabQ"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ESm0oXGREeSw4svShhZabQ" x="357" y="131"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ESm0oXGREeSw4svShhZabQ" x="79" y="19" width="293" height="155"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_NEckEHGZEeSw4svShhZabQ" type="2007">
+      <children xmi:type="notation:DecorationNode" xmi:id="_NEckEnGZEeSw4svShhZabQ" type="5026"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_NEckE3GZEeSw4svShhZabQ" type="7016">
+        <children xmi:type="notation:Shape" xmi:id="_jAzRMHGaEeSw4svShhZabQ" type="shape_sysml_block_as_classifier">
+          <children xmi:type="notation:DecorationNode" xmi:id="_jAzRMnGaEeSw4svShhZabQ" type="label_sysml_block_name"/>
+          <children xmi:type="notation:ListCompartment" xmi:id="_jA2UgHGaEeSw4svShhZabQ" type="compartment_sysml_property_as_list">
+            <styles xmi:type="notation:DrawerStyle" xmi:id="_jA2UgXGaEeSw4svShhZabQ"/>
+            <styles xmi:type="notation:TitleStyle" xmi:id="_jA2UgnGaEeSw4svShhZabQ"/>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_jA2Ug3GaEeSw4svShhZabQ"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_jA2UhHGaEeSw4svShhZabQ"/>
+          </children>
+          <children xmi:type="notation:ListCompartment" xmi:id="_jA2UhXGaEeSw4svShhZabQ" type="compartment_sysml_part_as_list">
+            <styles xmi:type="notation:DrawerStyle" xmi:id="_jA2UhnGaEeSw4svShhZabQ"/>
+            <styles xmi:type="notation:TitleStyle" xmi:id="_jA2Uh3GaEeSw4svShhZabQ"/>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_jA2UiHGaEeSw4svShhZabQ"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_jA2UiXGaEeSw4svShhZabQ"/>
+          </children>
+          <children xmi:type="notation:ListCompartment" xmi:id="_jA27kHGaEeSw4svShhZabQ" type="compartment_sysml_reference_as_list">
+            <styles xmi:type="notation:DrawerStyle" xmi:id="_jA27kXGaEeSw4svShhZabQ"/>
+            <styles xmi:type="notation:TitleStyle" xmi:id="_jA27knGaEeSw4svShhZabQ"/>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_jA27k3GaEeSw4svShhZabQ"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_jA27lHGaEeSw4svShhZabQ"/>
+          </children>
+          <children xmi:type="notation:ListCompartment" xmi:id="_jA27lXGaEeSw4svShhZabQ" type="compartment_uml_port_as_list">
+            <styles xmi:type="notation:DrawerStyle" xmi:id="_jA27lnGaEeSw4svShhZabQ"/>
+            <styles xmi:type="notation:TitleStyle" xmi:id="_jA27l3GaEeSw4svShhZabQ"/>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_jA27mHGaEeSw4svShhZabQ"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_jA27mXGaEeSw4svShhZabQ"/>
+          </children>
+          <children xmi:type="notation:ListCompartment" xmi:id="_jA27mnGaEeSw4svShhZabQ" type="compartment_sysml_flowport_as_list">
+            <styles xmi:type="notation:DrawerStyle" xmi:id="_jA27m3GaEeSw4svShhZabQ"/>
+            <styles xmi:type="notation:TitleStyle" xmi:id="_jA27nHGaEeSw4svShhZabQ"/>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_jA27nXGaEeSw4svShhZabQ"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_jA27nnGaEeSw4svShhZabQ"/>
+          </children>
+          <children xmi:type="notation:ListCompartment" xmi:id="_jA27n3GaEeSw4svShhZabQ" type="compartment_uml_operation_as_list">
+            <styles xmi:type="notation:DrawerStyle" xmi:id="_jA27oHGaEeSw4svShhZabQ"/>
+            <styles xmi:type="notation:TitleStyle" xmi:id="_jA27oXGaEeSw4svShhZabQ"/>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_jA27onGaEeSw4svShhZabQ"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_jA27o3GaEeSw4svShhZabQ"/>
+          </children>
+          <children xmi:type="notation:ListCompartment" xmi:id="_jA3ioHGaEeSw4svShhZabQ" type="compartment_sysml_constraint_as_list">
+            <styles xmi:type="notation:DrawerStyle" xmi:id="_jA3ioXGaEeSw4svShhZabQ"/>
+            <styles xmi:type="notation:TitleStyle" xmi:id="_jA3ionGaEeSw4svShhZabQ"/>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_jA3io3GaEeSw4svShhZabQ"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_jA3ipHGaEeSw4svShhZabQ"/>
+          </children>
+          <children xmi:type="notation:ListCompartment" xmi:id="_jA3ipXGaEeSw4svShhZabQ" type="compartment_sysml_value_as_list">
+            <styles xmi:type="notation:DrawerStyle" xmi:id="_jA3ipnGaEeSw4svShhZabQ"/>
+            <styles xmi:type="notation:TitleStyle" xmi:id="_jA3ip3GaEeSw4svShhZabQ"/>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_jA3iqHGaEeSw4svShhZabQ"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_jA3iqXGaEeSw4svShhZabQ"/>
+          </children>
+          <element xmi:type="uml:Class" href="model.uml#_jAw08HGaEeSw4svShhZabQ"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jAzRMXGaEeSw4svShhZabQ" x="213" y="70" width="100" height="150"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_NEckFHGZEeSw4svShhZabQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NEckFXGZEeSw4svShhZabQ"/>
+      </children>
+      <element xmi:type="uml:Package" href="model.uml#_NEau4HGZEeSw4svShhZabQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NEckEXGZEeSw4svShhZabQ" x="393" y="163" width="720" height="326"/>
     </children>
     <styles xmi:type="notation:DiagramStyle" xmi:id="_3HtgoXGQEeSw4svShhZabQ"/>
     <styles xmi:type="style:PapyrusViewStyle" xmi:id="_3HtgonGQEeSw4svShhZabQ">
@@ -24,7 +86,7 @@
         <styles xmi:type="notation:TitleStyle" xmi:id="_3I6ag3GQEeSw4svShhZabQ"/>
       </children>
       <element xmi:type="uml:Class" href="model.uml#_3IQTMHGQEeSw4svShhZabQ"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3I6ahHGQEeSw4svShhZabQ" x="40" y="40" width="500" height="250"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3I6ahHGQEeSw4svShhZabQ" x="56" y="40" width="263" height="90"/>
     </children>
     <styles xmi:type="notation:DiagramStyle" xmi:id="_3I6ahXGQEeSw4svShhZabQ"/>
     <styles xmi:type="style:PapyrusViewStyle" xmi:id="_3I6ahnGQEeSw4svShhZabQ">
@@ -57,387 +119,567 @@
   </notation:Diagram>
   <nattable:Table xmi:id="_3JrPgHGQEeSw4svShhZabQ" name="NewDiagram" currentRowAxisProvider="_3JrPhnGQEeSw4svShhZabQ" currentColumnAxisProvider="_3JrPgXGQEeSw4svShhZabQ">
     <context xmi:type="uml:Model" href="model.uml#_2x4akHGQEeSw4svShhZabQ"/>
-    <owner xmi:type="uml:Model" href="model.uml#_2x4akHGQEeSw4svShhZabQ"/>
+    <owner xmi:type="uml:Package" href="model.uml#_EShVEHGREeSw4svShhZabQ"/>
     <prototype xmi:type="configuration:PapyrusSyncTable" href="platform:/plugin/org.eclipse.papyrus.infra.viewpoints.policy/builtin/default.configuration#_7wNb29xhEeOqHvRyiN87hA"/>
     <tableConfiguration xmi:type="nattableconfiguration:TableConfiguration" href="platform:/plugin/org.eclipse.papyrus.sysml.nattable.allocation.config/resources/allocation.nattableconfiguration#/"/>
     <columnAxisProvidersHistory xmi:type="nattableaxisprovider:SlaveObjectAxisProvider" xmi:id="_3JrPgXGQEeSw4svShhZabQ" description="This provider provides the default columns for the SysML Allocation Table" name="SysMLAllocationFeatureProvider">
-      <axis xmi:type="nattableaxis:EStructuralFeatureAxis" xmi:id="_3JrPgnGQEeSw4svShhZabQ">
-        <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.sysml.nattable.allocation.config/resources/allocation.nattableconfiguration#//@columnHeaderAxisConfiguration/@axisManagers.0"/>
-        <element xmi:type="ecore:EAttribute" href="http://www.eclipse.org/uml2/5.0.0/UML#//NamedElement/name"/>
-      </axis>
       <axis xmi:type="nattableaxis:EStructuralFeatureAxis" xmi:id="_3JrPg3GQEeSw4svShhZabQ">
         <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.sysml.nattable.allocation.config/resources/allocation.nattableconfiguration#//@columnHeaderAxisConfiguration/@axisManagers.0"/>
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/client"/>
+      </axis>
+      <axis xmi:type="nattableaxis:EStructuralFeatureAxis" xmi:id="_3JrPgnGQEeSw4svShhZabQ">
+        <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.sysml.nattable.allocation.config/resources/allocation.nattableconfiguration#//@columnHeaderAxisConfiguration/@axisManagers.0"/>
+        <element xmi:type="ecore:EAttribute" href="http://www.eclipse.org/uml2/5.0.0/UML#//NamedElement/name"/>
       </axis>
       <axis xmi:type="nattableaxis:EStructuralFeatureAxis" xmi:id="_3JrPhHGQEeSw4svShhZabQ">
         <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.sysml.nattable.allocation.config/resources/allocation.nattableconfiguration#//@columnHeaderAxisConfiguration/@axisManagers.0"/>
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/supplier"/>
       </axis>
-      <axis xmi:type="nattableaxis:EStructuralFeatureAxis" xmi:id="_3JrPhXGQEeSw4svShhZabQ">
+      <axis xmi:type="nattableaxis:EStructuralFeatureAxis" xmi:id="_4S28IXu3EeSWyoC_eqzbbQ">
         <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.sysml.nattable.allocation.config/resources/allocation.nattableconfiguration#//@columnHeaderAxisConfiguration/@axisManagers.0"/>
-        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Element/owner"/>
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//DirectedRelationship/target"/>
+      </axis>
+      <axis xmi:type="nattableaxis:EStructuralFeatureAxis" xmi:id="_PskC8Hu3EeSWyoC_eqzbbQ">
+        <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.sysml.nattable.allocation.config/resources/allocation.nattableconfiguration#//@columnHeaderAxisConfiguration/@axisManagers.0"/>
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Element/ownedComment"/>
       </axis>
     </columnAxisProvidersHistory>
     <rowAxisProvidersHistory xmi:type="nattableaxisprovider:MasterObjectAxisProvider" xmi:id="_3JrPhnGQEeSw4svShhZabQ" description="This row providers allows to display all Allocation in a Table" name="SysMLAllocationProvider" disconnectSlave="true"/>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-taHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-taXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm5lDHu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm5lDXu4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/client"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tanGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1Wwq8HGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm5lDnu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3sXu4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-ta3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_FUNC_010">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm5lD3u4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_FUNC_010">
         <unresolvedString>ROVER_FUNC_010</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-tbHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tbXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm5lEHu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm5lEXu4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/supplier"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tbnGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1Wwq8HGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm5lEnu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3sXu4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-tb3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must support various payloads (sensors/camera/robotic arm) thanks to a pluggable software architecture">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm5lE3u4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must support various payloads (sensors/camera/robotic arm) thanks to a pluggable software architecture">
         <unresolvedString>The Rover must support various payloads (sensors/camera/robotic arm) thanks to a pluggable software architecture</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-tcHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tcXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm5lFHu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm5lFXu4EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Element/ownedComment"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm5lFnu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3sXu4EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm5lF3u4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find Comment" name="Set Value As Text Problem" valueAsString="Functional">
+        <unresolvedString>Functional</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm5lGHu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm5lGXu4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/client"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tcnGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1Wwq8XGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm5lGnu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3snu4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-tc3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_FUNC_020">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm5lG3u4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_FUNC_020">
         <unresolvedString>ROVER_FUNC_020</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-tdHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tdXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm5lHHu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm5lHXu4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/supplier"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tdnGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1Wwq8XGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm5lHnu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3snu4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-td3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must explore a flat room (without holes) autonomously">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm5lH3u4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must explore a flat room (without holes) autonomously">
         <unresolvedString>The Rover must explore a flat room (without holes) autonomously</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-teHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-teXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm5lIHu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm5lIXu4EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Element/ownedComment"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm5lInu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3snu4EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm5lI3u4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find Comment" name="Set Value As Text Problem" valueAsString="Functional">
+        <unresolvedString>Functional</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm5lJHu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm5lJXu4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/client"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tenGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1Wwq8nGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm5lJnu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3s3u4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-te3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_FUNC_030">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm5lJ3u4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_FUNC_030">
         <unresolvedString>ROVER_FUNC_030</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-tfHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tfXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm5lKHu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm5lKXu4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/supplier"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tfnGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1Wwq8nGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm5lKnu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3s3u4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-tf3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must report a map of the explored environment">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm5lK3u4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must report a map of the explored environment">
         <unresolvedString>The Rover must report a map of the explored environment</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-tgHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tgXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm5lLHu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm5lLXu4EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Element/ownedComment"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm5lLnu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3s3u4EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm5lL3u4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find Comment" name="Set Value As Text Problem" valueAsString="Functional">
+        <unresolvedString>Functional</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm5lMHu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm5lMXu4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/client"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tgnGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1Wwq83GREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MEHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3tHu4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-tg3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_HARD_010">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MEXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_HARD_010">
         <unresolvedString>ROVER_HARD_010</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-thHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-thXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6MEnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6ME3u4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/supplier"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-thnGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1Wwq83GREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MFHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3tHu4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-th3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must be built with the Polulu Dagu Rover 5 platform">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MFXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must be built with the Polulu Dagu Rover 5 platform">
         <unresolvedString>The Rover must be built with the Polulu Dagu Rover 5 platform</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-tiHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tiXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6MFnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MF3u4EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Element/ownedComment"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MGHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3tHu4EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MGXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find Comment" name="Set Value As Text Problem" valueAsString="Hardware">
+        <unresolvedString>Hardware</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6MGnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MG3u4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/client"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tinGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1Wwq9HGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MHHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3tXu4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-ti3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_HARD_020">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MHXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_HARD_020">
         <unresolvedString>ROVER_HARD_020</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-tjHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tjXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6MHnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MH3u4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/supplier"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tjnGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1Wwq9HGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MIHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3tXu4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-tj3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must be built with widely available hardware pieces (Arduino, Raspberry Pi)">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MIXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must be built with widely available hardware pieces (Arduino, Raspberry Pi)">
         <unresolvedString>The Rover must be built with widely available hardware pieces (Arduino</unresolvedString>
         <unresolvedString> Raspberry Pi)</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-tkHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tkXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6MInu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MI3u4EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Element/ownedComment"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MJHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3tXu4EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MJXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find Comment" name="Set Value As Text Problem" valueAsString="Hardware">
+        <unresolvedString>Hardware</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6MJnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MJ3u4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/client"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tknGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1Wwq9XGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MKHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3tnu4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-tk3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_NFUNC_010">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MKXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_NFUNC_010">
         <unresolvedString>ROVER_NFUNC_010</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-tlHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tlXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6MKnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MK3u4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/supplier"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tlnGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1Wwq9XGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MLHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3tnu4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-tl3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="Battery must provide an autonomy of at least 10mn">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MLXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="Battery must provide an autonomy of at least 10mn">
         <unresolvedString>Battery must provide an autonomy of at least 10mn</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-tmHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tmXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6MLnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6ML3u4EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Element/ownedComment"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MMHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3tnu4EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MMXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find Comment" name="Set Value As Text Problem" valueAsString="Non Functional Properties">
+        <unresolvedString>Non Functional Properties</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6MMnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MM3u4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/client"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tmnGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1Wwq9nGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MNHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3t3u4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-tm3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_NFUNC_020">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MNXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_NFUNC_020">
         <unresolvedString>ROVER_NFUNC_020</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-tnHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tnXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6MNnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MN3u4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/supplier"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tnnGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1Wwq9nGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MOHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3t3u4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-tn3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must be assembled with limited soldering capabilities">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MOXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must be assembled with limited soldering capabilities">
         <unresolvedString>The Rover must be assembled with limited soldering capabilities</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-toHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-toXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6MOnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MO3u4EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Element/ownedComment"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MPHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3t3u4EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MPXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find Comment" name="Set Value As Text Problem" valueAsString="Non Functional Properties">
+        <unresolvedString>Non Functional Properties</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6MPnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MP3u4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/client"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tonGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1WxSAHGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MQHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3uHu4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-to3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_NFUNC_030">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MQXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_NFUNC_030">
         <unresolvedString>ROVER_NFUNC_030</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-tpHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tpXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6MQnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MQ3u4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/supplier"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tpnGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1WxSAHGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MRHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3uHu4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-tp3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must be packageable for flight travel (less than 10Kg including a flight case, handluggage max dimensions)">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MRXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must be packageable for flight travel (less than 10Kg including a flight case, handluggage max dimensions)">
         <unresolvedString>The Rover must be packageable for flight travel (less than 10Kg including a flight case</unresolvedString>
         <unresolvedString> handluggage max dimensions)</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-tqHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tqXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6MRnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MR3u4EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Element/ownedComment"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MSHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3uHu4EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MSXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find Comment" name="Set Value As Text Problem" valueAsString="Non Functional Properties">
+        <unresolvedString>Non Functional Properties</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6MSnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MS3u4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/client"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tqnGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1WxSAXGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MTHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3uXu4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-tq3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_NFUNC_040">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MTXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_NFUNC_040">
         <unresolvedString>ROVER_NFUNC_040</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-trHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-trXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6MTnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MT3u4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/supplier"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-trnGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1WxSAXGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MUHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3uXu4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-tr3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The total price of the Rover must be less than 200$">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MUXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The total price of the Rover must be less than 200$">
         <unresolvedString>The total price of the Rover must be less than 200$</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-tsHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tsXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6MUnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MU3u4EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Element/ownedComment"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MVHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3uXu4EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MVXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find Comment" name="Set Value As Text Problem" valueAsString="Non Functional Properties">
+        <unresolvedString>Non Functional Properties</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6MVnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MV3u4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/client"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tsnGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1WxSAnGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MWHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3unu4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-ts3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_FUNC_040">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MWXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_FUNC_040">
         <unresolvedString>ROVER_FUNC_040</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-ttHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-ttXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6MWnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MW3u4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/supplier"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-ttnGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1WxSAnGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MXHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3unu4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-tt3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must explore dangerous areas (with many obstacles/holes, …)">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MXXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must explore dangerous areas (with many obstacles/holes, …)">
         <unresolvedString>The Rover must explore dangerous areas (with many obstacles/holes</unresolvedString>
         <unresolvedString> …)</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-tuHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tuXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6MXnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MX3u4EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Element/ownedComment"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MYHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3unu4EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MYXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find Comment" name="Set Value As Text Problem" valueAsString="Functional">
+        <unresolvedString>Functional</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6MYnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MY3u4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/client"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tunGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1WxSA3GREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MZHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3u3u4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-tu3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_FUNC_050">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MZXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_FUNC_050">
         <unresolvedString>ROVER_FUNC_050</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-tvHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tvXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6MZnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MZ3u4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/supplier"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tvnGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1WxSA3GREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MaHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3u3u4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-tv3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must be controlled through an Android application">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MaXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must be controlled through an Android application">
         <unresolvedString>The Rover must be controlled through an Android application</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-twHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-twXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6Manu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6Ma3u4EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Element/ownedComment"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MbHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3u3u4EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MbXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find Comment" name="Set Value As Text Problem" valueAsString="Functional">
+        <unresolvedString>Functional</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6Mbnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6Mb3u4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/client"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-twnGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1WxSBHGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6McHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3vHu4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-tw3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_SAFE_010">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6McXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_SAFE_010">
         <unresolvedString>ROVER_SAFE_010</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-txHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-txXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6Mcnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6Mc3u4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/supplier"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-txnGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1WxSBHGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MdHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3vHu4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-tx3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must avoid crash in obstacles">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MdXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must avoid crash in obstacles">
         <unresolvedString>The Rover must avoid crash in obstacles</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-tyHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tyXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6Mdnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6Md3u4EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Element/ownedComment"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MeHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlU3vHu4EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MeXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find Comment" name="Set Value As Text Problem" valueAsString="Safety">
+        <unresolvedString>Safety</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6Menu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6Me3u4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/client"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tynGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1WxSBXGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MfHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlVewHu4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-ty3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_FUNC_060">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MfXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_FUNC_060">
         <unresolvedString>ROVER_FUNC_060</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-tzHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tzXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6Mfnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6Mf3u4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/supplier"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-tznGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1WxSBXGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MgHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlVewHu4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-tz3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must be controlled through an IoS application">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MgXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must be controlled through an IoS application">
         <unresolvedString>The Rover must be controlled through an IoS application</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-t0HGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-t0XGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6Mgnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6Mg3u4EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Element/ownedComment"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MhHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlVewHu4EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MhXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find Comment" name="Set Value As Text Problem" valueAsString="Functional">
+        <unresolvedString>Functional</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6Mhnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6Mh3u4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/client"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-t0nGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1WxSBnGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MiHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlVewXu4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-t03GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_FUNC_070">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MiXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_FUNC_070">
         <unresolvedString>ROVER_FUNC_070</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-t1HGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-t1XGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6Minu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6Mi3u4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/supplier"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-t1nGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1WxSBnGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MjHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlVewXu4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-t13GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must provide images of the explored environment">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MjXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must provide images of the explored environment">
         <unresolvedString>The Rover must provide images of the explored environment</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-t2HGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-t2XGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6Mjnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6Mj3u4EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Element/ownedComment"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MkHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlVewXu4EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MkXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find Comment" name="Set Value As Text Problem" valueAsString="Functional">
+        <unresolvedString>Functional</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6Mknu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6Mk3u4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/client"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-t2nGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1WxSB3GREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MlHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlVewnu4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-t23GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_FUNC_080">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MlXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_FUNC_080">
         <unresolvedString>ROVER_FUNC_080</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-t3HGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-t3XGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6Mlnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6Ml3u4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/supplier"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-t3nGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1WxSB3GREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MmHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlVewnu4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-t33GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must differentiate walls from inclined pathway">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MmXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must differentiate walls from inclined pathway">
         <unresolvedString>The Rover must differentiate walls from inclined pathway</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W-t4HGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-t4XGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6Mmnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6Mm3u4EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Element/ownedComment"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MnHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlVewnu4EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MnXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find Comment" name="Set Value As Text Problem" valueAsString="Functional">
+        <unresolvedString>Functional</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6Mnnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6Mn3u4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/client"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W-t4nGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1WxSCHGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MoHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlVew3u4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W-t43GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_SAFE_020">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MoXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="ROVER_SAFE_020">
         <unresolvedString>ROVER_SAFE_020</unresolvedString>
       </problems>
     </cells>
-    <cells xmi:type="nattablecell:Cell" xmi:id="_1W_UcHGREeSw4svShhZabQ">
-      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W_UcXGREeSw4svShhZabQ">
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6Monu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6Mo3u4EeSWyoC_eqzbbQ">
         <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/supplier"/>
       </columnWrapper>
-      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_1W_UcnGREeSw4svShhZabQ">
-        <element xmi:type="uml:Abstraction" href="model.uml#_1WxSCHGREeSw4svShhZabQ"/>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MpHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlVew3u4EeSWyoC_eqzbbQ"/>
       </rowWrapper>
-      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_1W_Uc3GREeSw4svShhZabQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must avoid falling on its backside">
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MpXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find NamedElement" name="Set Value As Text Problem" valueAsString="The Rover must avoid falling on its backside">
         <unresolvedString>The Rover must avoid falling on its backside</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_xm6Mpnu4EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6Mp3u4EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Element/ownedComment"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_xm6MqHu4EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Abstraction" href="model.uml#_xlVew3u4EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_xm6MqXu4EeSWyoC_eqzbbQ" description="Some Strings can't be resolved to find Comment" name="Set Value As Text Problem" valueAsString="Safety">
+        <unresolvedString>Safety</unresolvedString>
       </problems>
     </cells>
   </nattable:Table>
   <nattable:Table xmi:id="_3Jvg8HGQEeSw4svShhZabQ" name="NewDiagram" currentRowAxisProvider="_3Jvg9XGQEeSw4svShhZabQ" currentColumnAxisProvider="_3Jvg8XGQEeSw4svShhZabQ">
     <context xmi:type="uml:Model" href="model.uml#_2x4akHGQEeSw4svShhZabQ"/>
-    <owner xmi:type="uml:Model" href="model.uml#_2x4akHGQEeSw4svShhZabQ"/>
+    <owner xmi:type="uml:Package" href="model.uml#_EShVEHGREeSw4svShhZabQ"/>
     <prototype xmi:type="configuration:PapyrusSyncTable" href="platform:/plugin/org.eclipse.papyrus.infra.viewpoints.policy/builtin/default.configuration#_7wNb3txhEeOqHvRyiN87hA"/>
     <tableConfiguration xmi:type="nattableconfiguration:TableConfiguration" href="platform:/plugin/org.eclipse.papyrus.sysml.nattable.requirement.config/configs/requirement.nattableconfiguration#/"/>
     <columnAxisProvidersHistory xmi:type="nattableaxisprovider:SlaveObjectAxisProvider" xmi:id="_3Jvg8XGQEeSw4svShhZabQ" description="Provides the columns of the tables with a default configuration" name="Requirements Feature Columns Provider">
@@ -451,7 +693,208 @@
       <axis xmi:type="nattableaxis:FeatureIdAxis" xmi:id="_3Jvg9HGQEeSw4svShhZabQ" element="property_of_stereotype:/SysML::Requirements::Requirement::text">
         <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.sysml.nattable.requirement.config/configs/requirement.nattableconfiguration#//@columnHeaderAxisConfiguration/@axisManagers.1"/>
       </axis>
+      <axis xmi:type="nattableaxis:EStructuralFeatureAxis" xmi:id="_9a7XQHu5EeSWyoC_eqzbbQ">
+        <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.sysml.nattable.requirement.config/configs/requirement.nattableconfiguration#//@columnHeaderAxisConfiguration/@axisManagers.0"/>
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Classifier/attribute"/>
+      </axis>
+      <axis xmi:type="nattableaxis:EStructuralFeatureAxis" xmi:id="_9a7XQXu5EeSWyoC_eqzbbQ">
+        <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.sysml.nattable.requirement.config/configs/requirement.nattableconfiguration#//@columnHeaderAxisConfiguration/@axisManagers.0"/>
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//BehavioredClassifier/classifierBehavior"/>
+      </axis>
     </columnAxisProvidersHistory>
     <rowAxisProvidersHistory xmi:type="nattableaxisprovider:MasterObjectAxisProvider" xmi:id="_3Jvg9XGQEeSw4svShhZabQ" description="Provides the requirements directly owned by the context of the table" name="Requirement Axis Provider" disconnectSlave="true"/>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_jUT-RHu6EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-RXu6EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//BehavioredClassifier/classifierBehavior"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-Rnu6EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Class" href="model.uml#_jREdAHu6EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_jUT-R3u6EeSWyoC_eqzbbQ" description="No Behavior represented by Functional have been found" name="Set Value As Text Problem" valueAsString="Functional">
+        <unresolvedString>Functional</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_jUT-SHu6EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-SXu6EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//BehavioredClassifier/classifierBehavior"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-Snu6EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Class" href="model.uml#_jREdAXu6EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_jUT-S3u6EeSWyoC_eqzbbQ" description="No Behavior represented by Functional have been found" name="Set Value As Text Problem" valueAsString="Functional">
+        <unresolvedString>Functional</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_jUT-THu6EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-TXu6EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//BehavioredClassifier/classifierBehavior"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-Tnu6EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Class" href="model.uml#_jREdAnu6EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_jUT-T3u6EeSWyoC_eqzbbQ" description="No Behavior represented by Functional have been found" name="Set Value As Text Problem" valueAsString="Functional">
+        <unresolvedString>Functional</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_jUT-UHu6EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-UXu6EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//BehavioredClassifier/classifierBehavior"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-Unu6EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Class" href="model.uml#_jREdA3u6EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_jUT-U3u6EeSWyoC_eqzbbQ" description="No Behavior represented by Hardware have been found" name="Set Value As Text Problem" valueAsString="Hardware">
+        <unresolvedString>Hardware</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_jUT-VHu6EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-VXu6EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//BehavioredClassifier/classifierBehavior"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-Vnu6EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Class" href="model.uml#_jREdBHu6EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_jUT-V3u6EeSWyoC_eqzbbQ" description="No Behavior represented by Hardware have been found" name="Set Value As Text Problem" valueAsString="Hardware">
+        <unresolvedString>Hardware</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_jUT-WHu6EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-WXu6EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//BehavioredClassifier/classifierBehavior"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-Wnu6EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Class" href="model.uml#_jREdBXu6EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_jUT-W3u6EeSWyoC_eqzbbQ" description="No Behavior represented by Non Functional Properties have been found" name="Set Value As Text Problem" valueAsString="Non Functional Properties">
+        <unresolvedString>Non Functional Properties</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_jUT-XHu6EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-XXu6EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//BehavioredClassifier/classifierBehavior"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-Xnu6EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Class" href="model.uml#_jREdBnu6EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_jUT-X3u6EeSWyoC_eqzbbQ" description="No Behavior represented by Non Functional Properties have been found" name="Set Value As Text Problem" valueAsString="Non Functional Properties">
+        <unresolvedString>Non Functional Properties</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_jUT-YHu6EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-YXu6EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//BehavioredClassifier/classifierBehavior"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-Ynu6EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Class" href="model.uml#_jREdB3u6EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_jUT-Y3u6EeSWyoC_eqzbbQ" description="No Behavior represented by Non Functional Properties have been found" name="Set Value As Text Problem" valueAsString="Non Functional Properties">
+        <unresolvedString>Non Functional Properties</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_jUT-ZHu6EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-ZXu6EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//BehavioredClassifier/classifierBehavior"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-Znu6EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Class" href="model.uml#_jREdCHu6EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_jUT-Z3u6EeSWyoC_eqzbbQ" description="No Behavior represented by Non Functional Properties have been found" name="Set Value As Text Problem" valueAsString="Non Functional Properties">
+        <unresolvedString>Non Functional Properties</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_jUT-aHu6EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-aXu6EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//BehavioredClassifier/classifierBehavior"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-anu6EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Class" href="model.uml#_jREdCXu6EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_jUT-a3u6EeSWyoC_eqzbbQ" description="No Behavior represented by Functional have been found" name="Set Value As Text Problem" valueAsString="Functional">
+        <unresolvedString>Functional</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_jUT-bHu6EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-bXu6EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//BehavioredClassifier/classifierBehavior"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-bnu6EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Class" href="model.uml#_jREdCnu6EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_jUT-b3u6EeSWyoC_eqzbbQ" description="No Behavior represented by Functional have been found" name="Set Value As Text Problem" valueAsString="Functional">
+        <unresolvedString>Functional</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_jUT-cHu6EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-cXu6EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//BehavioredClassifier/classifierBehavior"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-cnu6EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Class" href="model.uml#_jREdC3u6EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_jUT-c3u6EeSWyoC_eqzbbQ" description="No Behavior represented by Safety have been found" name="Set Value As Text Problem" valueAsString="Safety">
+        <unresolvedString>Safety</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_jUT-dHu6EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-dXu6EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//BehavioredClassifier/classifierBehavior"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-dnu6EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Class" href="model.uml#_jREdDHu6EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_jUT-d3u6EeSWyoC_eqzbbQ" description="No Behavior represented by Functional have been found" name="Set Value As Text Problem" valueAsString="Functional">
+        <unresolvedString>Functional</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_jUT-eHu6EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-eXu6EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//BehavioredClassifier/classifierBehavior"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-enu6EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Class" href="model.uml#_jREdDXu6EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_jUT-e3u6EeSWyoC_eqzbbQ" description="No Behavior represented by Functional have been found" name="Set Value As Text Problem" valueAsString="Functional">
+        <unresolvedString>Functional</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_jUT-fHu6EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-fXu6EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//BehavioredClassifier/classifierBehavior"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-fnu6EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Class" href="model.uml#_jREdDnu6EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_jUT-f3u6EeSWyoC_eqzbbQ" description="No Behavior represented by Functional have been found" name="Set Value As Text Problem" valueAsString="Functional">
+        <unresolvedString>Functional</unresolvedString>
+      </problems>
+    </cells>
+    <cells xmi:type="nattablecell:Cell" xmi:id="_jUT-gHu6EeSWyoC_eqzbbQ">
+      <columnWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-gXu6EeSWyoC_eqzbbQ">
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//BehavioredClassifier/classifierBehavior"/>
+      </columnWrapper>
+      <rowWrapper xmi:type="nattablecell:EObjectAxisWrapper" xmi:id="_jUT-gnu6EeSWyoC_eqzbbQ">
+        <element xmi:type="uml:Class" href="model.uml#_jREdD3u6EeSWyoC_eqzbbQ"/>
+      </rowWrapper>
+      <problems xmi:type="nattableproblem:StringResolutionProblem" xmi:id="_jUT-g3u6EeSWyoC_eqzbbQ" description="No Behavior represented by Safety have been found" name="Set Value As Text Problem" valueAsString="Safety">
+        <unresolvedString>Safety</unresolvedString>
+      </problems>
+    </cells>
   </nattable:Table>
+  <css:ModelStyleSheets xmi:id="_dYNGcHGZEeSw4svShhZabQ"/>
+  <notation:Diagram xmi:id="_3Ui3MHGaEeSw4svShhZabQ" type="InternalBlock" name="Rover Internal block diagram" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_3Ui3MXGaEeSw4svShhZabQ" type="shape_sysml_block_as_composite">
+      <children xmi:type="notation:DecorationNode" xmi:id="_3Ui3MnGaEeSw4svShhZabQ" type="label_sysml_block_name"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_3Ui3M3GaEeSw4svShhZabQ" type="compartment_sysml_structure">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_3Ui3NHGaEeSw4svShhZabQ"/>
+      </children>
+      <element xmi:type="uml:Class" href="model.uml#_jAw08HGaEeSw4svShhZabQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3Ui3NXGaEeSw4svShhZabQ" x="40" y="40" width="903" height="403"/>
+    </children>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_3Ui3NnGaEeSw4svShhZabQ"/>
+    <styles xmi:type="style:PapyrusViewStyle" xmi:id="_3Ui3N3GaEeSw4svShhZabQ">
+      <owner xmi:type="uml:Class" href="model.uml#_jAw08HGaEeSw4svShhZabQ"/>
+    </styles>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_3Vt74HGaEeSw4svShhZabQ" name="diagram_compatibility_version" stringValue="1.0.0"/>
+    <element xmi:type="uml:Class" href="model.uml#_jAw08HGaEeSw4svShhZabQ"/>
+  </notation:Diagram>
 </xmi:XMI>
