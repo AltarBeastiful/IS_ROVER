@@ -229,6 +229,7 @@
         </eAnnotations>
         <ownedEnd xmi:type="uml:Property" xmi:id="_EN_A44dqEeSXRJte7M6hWg" name="rover" type="_nuI1wIdhEeSXRJte7M6hWg" association="_EN_A4IdqEeSXRJte7M6hWg"/>
       </packagedElement>
+      <packagedElement xmi:type="uml:Interaction" xmi:id="_TtOKsIeZEeSWzozEt_a7Vw" name="Interaction1"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Abstraction" xmi:id="_xlU3sXu4EeSWyoC_eqzbbQ" name="ROVER_FUNC_010"/>
     <packagedElement xmi:type="uml:Abstraction" xmi:id="_xlU3snu4EeSWyoC_eqzbbQ" name="ROVER_FUNC_020"/>
